@@ -1,0 +1,17 @@
+{
+    "name": "menofre/mon-framework",
+    "authors": [
+        {
+            "name": "NoeMoreau",
+            "email": "noe.moreau@netc.eu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
